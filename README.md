@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I love playing guitar🎸**
 
-<h3 align="left">Connect with me👇:</h3>
+<h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="500" height="500" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif">
 <p align="left">
 <a href="https://twitter.com/@2_dreamerzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@2_dreamerzz" height="30" width="40" /></a>
