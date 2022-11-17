@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hola 👋, I'm Adithya Anil😉</h1>
 <h3 align="center">A passionate frontend developer student from India</h3>
 
