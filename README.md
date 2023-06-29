@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/@2_dreamerzz" target="blank"><img src="https://img.shields.io/twitter/follow/@2_dreamerzz?logo=twitter&style=for-the-badge" alt="@2_dreamerzz" /></a> </p>
 
-- 🌱 I’m currently learning **Webdevelopment(frontend,backend)**
+- 🌱 I’m currently learning **Web development (frontend, backend)**
 
-- 💬 Ask me about **Webdevelopment front-end**
+- 💬 Ask me about **Web development front-end**
 
 - 📫 How to reach me **unidreamerzz@gmail.com**
 
@@ -41,14 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=unidreamerzz007&show_icons=true&locale=en&count_private=true&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&hide=["issues","contribs"]" alt="unidreamerzz007's GitHub Stats">
 </p>
 
-</p>
- <h3>GitHub Trophies🏆</h3>
-    <p><a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=shibinshibu01&theme=dracula"/></p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unidreamerzz007&show_icons=true&locale=en&layout=compact&hide_border=true&background=000000&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=FFFFFF" alt="unidreamerzz007's Streak Stats">
 </p>
-
-
-
