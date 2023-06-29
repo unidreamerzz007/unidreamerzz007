@@ -41,6 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=unidreamerzz007&show_icons=true&locale=en&count_private=true&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&hide=["issues","contribs"]" alt="unidreamerzz007's GitHub Stats">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unidreamerzz007&show_icons=true&locale=en&layout=compact&hide_border=true&background=000000&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=FFFFFF" alt="unidreamerzz007's Streak Stats">
 </p>
