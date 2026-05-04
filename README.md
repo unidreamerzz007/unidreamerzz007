@@ -63,9 +63,19 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=unidreamerzz007&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unidreamerzz007&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unidreamerzz007&show_icons=true&locale=en&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&theme=dark)
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unidreamerzz007&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700)
+
+</div>
+
+<div align="center">
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=unidreamerzz007&theme=dark&hide_border=true&background=000000&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&currStreakLabel=FFD700&sideNums=FFFFFF&sideLabels=FFD700)
 
 </div>
 
